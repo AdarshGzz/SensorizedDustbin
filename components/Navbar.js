@@ -8,7 +8,7 @@ function Navbar() {
         <div className="flex flex-row justify-between h-16 items-center">
           <div className="flex ">
             <div className="flex-shrink-0 flex items-center">
-              <span className="text-white font-bold text-2xl">AWR</span>
+              <span className="text-white font-bold text-2xl">Eco Bin</span>
             </div>
             <div className="hidden sm:block sm:ml-6">
               <div className="flex space-x-4 ">
