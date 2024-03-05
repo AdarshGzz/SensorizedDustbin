@@ -46,15 +46,21 @@ const ProjectPage = () => {
       <div className="my-8">
         <h2 className="text-xl font-bold mb-4">Project Description</h2>
         <p className="text-lg">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae
-          enim nec ligula volutpat fermentum. Nulla facilisi. Nullam vehicula
-          accumsan est, nec volutpat quam pretium sit amet. Fusce id bibendum
-          enim. Integer eget leo eu felis consequat facilisis ut vitae sem. Sed
-          sed scelerisque libero. Vestibulum euismod, ex sit amet vehicula
-          mollis, risus metus feugiat magna, nec gravida ligula tortor eu
-          tellus. Cras maximus turpis vitae nunc euismod, quis tincidunt felis
-          rhoncus. Donec accumsan, odio id condimentum tempor, risus ex feugiat
-          lectus, at gravida turpis lorem sit amet ligula.
+          1. Collection and Sorting: Rice straw is collected from fields after
+          the rice harvest. It needs to be sorted to remove impurities such as
+          stones, dirt, and other debris. The straws must be dried and stored in
+          a dry place to prevent mold and other forms of deterioration.
+          <br/>
+           2.
+          Chipping and Size Reduction: The collected rice straw is then chopped
+          into smaller pieces using machines like chippers or grinders. This
+          size reduction increases the surface area for subsequent processing
+          steps. 
+          <br/>
+          3. Pretreatment: The chopped rice straw undergoes a
+          pretreatment process and are soaked in water for several hours to
+          soften them. The softened straws are then boiled in an alkali solution
+          to break down the lignin and other impurities.
         </p>
       </div>
     </div>
